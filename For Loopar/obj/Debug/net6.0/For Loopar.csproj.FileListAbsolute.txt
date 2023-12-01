@@ -1,0 +1,14 @@
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\bin\Debug\net6.0\For Loopar.exe
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\bin\Debug\net6.0\For Loopar.deps.json
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\bin\Debug\net6.0\For Loopar.runtimeconfig.json
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\bin\Debug\net6.0\For Loopar.dll
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\bin\Debug\net6.0\For Loopar.pdb
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\For Loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\For Loopar.AssemblyInfoInputs.cache
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\For Loopar.AssemblyInfo.cs
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\For Loopar.csproj.CoreCompileInputs.cache
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\For Loopar.dll
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\refint\For Loopar.dll
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\For Loopar.pdb
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\For Loopar.genruntimeconfig.cache
+C:\Users\isa0908\OneDrive - Skellefteå kommun\Documents\Teknik Programering\For Loopar\For Loopar\obj\Debug\net6.0\ref\For Loopar.dll
